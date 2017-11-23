@@ -1,0 +1,12 @@
+https://gitee.com/itgonglin/sanshuilin_news_server.git
+ywtaos
+623490319@qq.com
+ywt1314!
+
+org:ywgj
+
+sshKeys: title: ywtao  key:ywtao-20171123-1952
+
+da:68:38:e5:dc:81:b9:bb:64:01:34:a0:28:4f:91:0b
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC57nFcWqqyVXMX99BebUZVBZWWwuOErjWAyvjsPY7uUo5Y18AAAV2sn9wlkgoFoxMbR4iILEL68N2CquMUq0MESMCS6wSlVNENWsOVGlEnoxKq04EupSzfsb0eF24oGls3av74sUn3KSKMn0VQY/fFuiFpeN45nVIenxQSgvtfQNwKwvxzAk1qYtye8eekXahpwiaoUJ7p7EUmabYK+fyXPgIjVEUygzV+0i6CBV/Q0yebLobaT/YyzpeR2EF9P0Rsw8nEZCvAjennTxmGZcWeY0xe/Jok4WMZYOSnkX6TBvI6el/pncu93jbOLS4hxcV9GdiheqTB7CUeonRu1TvP 623490319@qq.com
